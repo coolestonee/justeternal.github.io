@@ -329,11 +329,12 @@
     }
 }
 
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 550px) {
   
     .boxes{
         display: flex;
         flex-direction: column;
+        
     }
 }
 
